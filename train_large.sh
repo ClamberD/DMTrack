@@ -1,0 +1,1 @@
+./boot.sh DMTrack dinov2 --output_dir ./output --mixin large_378_warmup

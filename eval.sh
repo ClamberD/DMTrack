@@ -1,0 +1,1 @@
+./boot.sh DMTrack dinov2 --output_dir ./output --disable_wandb --mixin evaluation --weight_path ./dmtrack_base.bin
